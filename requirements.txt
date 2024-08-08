@@ -5,4 +5,5 @@ werkzeug
 datetime
 PyPDF2
 docx
+warnings
 

@@ -2,7 +2,7 @@ streamlit
 sqlalchemy.orm
 sqlalchemy
 db.py
-model.py
+model
 utils.py
 werkzeug.security 
 datetime

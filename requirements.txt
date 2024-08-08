@@ -1,7 +1,6 @@
 streamlit
 sqlalchemy.orm
 sqlalchemy
-sqlalchemy.ext.declarativ
 db
 model
 utils

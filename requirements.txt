@@ -5,5 +5,6 @@ werkzeug
 datetime
 PyPDF2
 docx
-warnings
-
+pandas
+python-docx
+cryptography

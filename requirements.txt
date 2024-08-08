@@ -1,9 +1,9 @@
 streamlit
 sqlalchemy.orm
 sqlalchemy
-db
-model
-utils
+db.py
+model.py
+utils.py
 werkzeug.security 
 datetime
 PyPDF2
